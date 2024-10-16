@@ -1,0 +1,131 @@
+/* Estilos para el contenedor del buscador */
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    /* Altura del contenedor */
+    background-color: #f8f8f8;
+    /* Color de fondo */
+    border-bottom: 1px solid #ddd;
+    /* Borde inferior */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Sombra */
+}
+
+
+/* Estilos para el formulario de búsqueda */
+
+.search-form {
+    display: flex;
+    flex-grow: 1;
+    max-width: 800px;
+    /* Ancho máximo del formulario */
+    margin: 0 auto;
+    /* Centrar horizontalmente */
+}
+
+
+/* Estilos para el campo de búsqueda */
+
+.search-input {
+    flex-grow: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 1em;
+}
+
+
+/* Estilos para el botón de búsqueda */
+
+.search-button {
+    padding: 8px 16px;
+    margin-left: 8px;
+    background-color: #ff9900;
+    /* Color de fondo */
+    color: white;
+    /* Color del texto */
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+
+/* Estilos para el botón de búsqueda al pasar el mouse */
+
+.search-button:hover {
+    background-color: #e68a00;
+    /* Color de fondo al pasar el mouse */
+}
+
+
+/* Estilos para el contenedor del buscador */
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    /* Altura del contenedor */
+    background-color: #f8f8f8;
+    /* Color de fondo */
+    border-bottom: 1px solid #ddd;
+    /* Borde inferior */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Sombra */
+}
+
+
+/* Estilos para el formulario de búsqueda */
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    /* Centrar horizontalmente */
+    align-items: center;
+    /* Centrar verticalmente */
+    max-width: 800px;
+    /* Ancho máximo del formulario */
+    width: 100%;
+    /* Ocupa todo el ancho disponible */
+    margin: 0 auto;
+    /* Centrar horizontalmente */
+}
+
+
+/* Estilos para el campo de búsqueda */
+
+.search-input {
+    flex-grow: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 1em;
+}
+
+
+/* Estilos para el botón de búsqueda */
+
+.search-button {
+    padding: 8px 16px;
+    margin-left: 8px;
+    background-color: #ff9900;
+    /* Color de fondo */
+    color: white;
+    /* Color del texto */
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+
+/* Estilos para el botón de búsqueda al pasar el mouse */
+
+.search-button:hover {
+    background-color: #e68a00;
+    /* Color de fondo al pasar el mouse */
+}
